@@ -1,0 +1,8 @@
+.aru{
+    width: 400px;
+    height: 500px;
+    border: 5px solid fuchsia;
+    box-shadow: 0 5px 10px  blueviolet;
+
+    background-image: url("https://pe-images.s3.amazonaws.com/basics/cc/image-size-resolution/resize-images-for-print/image-cropped-8x10.jpg");
+}
